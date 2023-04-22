@@ -1,2 +1,2 @@
 # SH-Hosting-Portal
-https://i.imgur.com/iQBMa8l.png
+![Alt text](url "https://i.imgur.com/iQBMa8l.png")
