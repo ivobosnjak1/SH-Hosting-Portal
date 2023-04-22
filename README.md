@@ -1,2 +1,2 @@
 # SH-Hosting-Portal
-![Alt text](url "https://i.imgur.com/iQBMa8l.png")
+<img src="https://i.imgur.com/iQBMa8l.png" width="50%" height="50%">
